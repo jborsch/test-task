@@ -29,12 +29,6 @@
             <version>6.8</version>
             <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>org.webjars</groupId>
-            <artifactId>angular-protractor</artifactId>
-            <version>1.6.1</version>
-        </dependency>
-
     </dependencies>
 
 </project>
